@@ -1,6 +1,6 @@
 <html>
 <head>
-  <title>- Fraternity Movement Delhi University</title>
+  <title>Films on Genocides that happened in India - Fraternity Movement Delhi University</title>
   <style>
     body {
       background-color: #f2f2f2;
@@ -43,7 +43,7 @@
 
 <div id="out"></div>
 
-<h1>Films on Genocides that happened in India - Fraternity Movement Delhi University</h1>
+<h1>- Fraternity Movement Delhi University</h1>
   <div class="container">
     <p class="film-link">
       <a href="https://drive.google.com/file/d/1nINZSxERAQI9Fp-uBC9XdvoVH_CPUhDZ/view?usp=drivesdk">BBC Documentary - India: The Modi Question (Episode 1)</a>
