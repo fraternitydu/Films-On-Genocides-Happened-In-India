@@ -56,6 +56,8 @@
     </p>
     <p class="film-link">
       <a href="https://youtu.be/OO-VaJBHiik">Ram Ke Naam (1992) Documentary by Anand Patwardhan</a>
+    <p class="film-link">
+      <a href="Gujarat Files by Rana Ayyub.pdf">Gujarat Files by Rana Ayyub</a>
     </p>
   </div>
 </body>
