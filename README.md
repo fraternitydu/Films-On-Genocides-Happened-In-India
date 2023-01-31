@@ -60,6 +60,3 @@
       <a href="Gujarat Files by Rana Ayyub.pdf">Gujarat Files by Rana Ayyub</a>
     </p>
   
-  </div>
-</body>
-</html>
