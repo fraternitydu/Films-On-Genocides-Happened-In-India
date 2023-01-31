@@ -1,6 +1,6 @@
 <html>
 <head>
-  <title>Films on Genocides that happened in India - Fraternity Movement Delhi University</title>
+  <title>- Fraternity Movement Delhi University</title>
   <style>
     body {
       background-color: #f2f2f2;
@@ -49,7 +49,7 @@
       <a href="https://drive.google.com/file/d/1nINZSxERAQI9Fp-uBC9XdvoVH_CPUhDZ/view?usp=drivesdk">BBC Documentary - India: The Modi Question (Episode 1)</a>
     </p>
     <p class="film-link">
-      <a href="https://drive.google.com/file/d/1-1yM6Z4UlFhT5pHuHPospcXZZCBgZG-f/view?usp=drivesdk">BBC Documentary - India: The Modi Question (Episode 2)</a>
+      <a href="https://drive.google.com/uc?id=14x2eYhWdrw-EZyjMTVcbHLj4MChtnAME">BBC Documentary - India: The Modi Question (Episode 2)</a>
     </p>
     <p class="film-link">
       <a href="https://youtu.be/M5cUys_AFWE">Gujarat Unhealed by Maktoob Media</a>
