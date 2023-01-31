@@ -1,7 +1,6 @@
 # Films-On-Genocides-Happened-In-India
 <html>
 <head>
- </head>
   <title>Films on Genocides that happened in India - Fraternity Movement Delhi University</title>
   <style>
     body {
