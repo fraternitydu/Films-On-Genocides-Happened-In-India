@@ -45,7 +45,6 @@
 
 <div id="out"></div>
 
-<script type="text/javascript" src="js/ZeroFrame.js"></script>
 <h1>Films on Genocides that happened in India - Fraternity Movement Delhi University</h1>
   <div class="container">
     <p class="film-link">
